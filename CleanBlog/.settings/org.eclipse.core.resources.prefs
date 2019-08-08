@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/chongli/blog/controller/Blog.java=UTF-8
+encoding//src/main/java/com/chongli/blog/controller/Index.java=UTF-8
+encoding//src/main/java/com/chongli/blog/controller/Message.java=UTF-8
+encoding//src/main/java/com/chongli/blog/controller/Post.java=UTF-8
+encoding//src/main/java/com/chongli/blog/dao/BlogDao.java=UTF-8
+encoding//src/main/java/com/chongli/blog/dao/MessageDao.java=UTF-8
+encoding//src/main/java/com/chongli/blog/entity/CleanBlog.java=UTF-8
+encoding//src/main/java/com/chongli/blog/entity/LeaveWord.java=UTF-8
+encoding//src/main/java/config/db.properties=UTF-8
+encoding//src/main/webapp/header.html=UTF-8
