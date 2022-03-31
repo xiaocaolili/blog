@@ -87,7 +87,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-beans</artifactId>
-            <version>4.3.24.RELEASE</version>
+            <version>5.3.18</version>
         </dependency>
         <!--这个jar 文件包含支持UI模版（Velocity，FreeMarker，JasperReports），
         邮件服务，脚本服务(JRuby)，缓存Cache（EHCache），
